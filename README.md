@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Yauheni Ivus</h1>
+<h3 align="center">Computer Science Engineer | Fullstack & Software Developer</h3>
 
-<!--
-**zZo0mMeE/zZo0mMeE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/yauheni-ivus/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:eugeneivus1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Bachelor of Computer Science at Lublin University of Technology  
+- 💻 Interested in Fullstack & Software Engineering  
+- 🌍 Languages: Belarusian | Polish | English | Russian
+- 🚀 Focused on building real production-ready projects  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,bootstrap,laravel,spring,angular,tailwind,vue" />
+</p>
+
+### 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,swift" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,powershell,bash,windows,linux,ubuntu,vim,npm,gradle,maven,docker,mysql,sqlite,postgres,mongodb,postman,qt,vscode,idea,androidstudio,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zZo0mMeE&theme=tokyonight" />
+</p>
+
+---
