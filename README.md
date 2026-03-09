@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Bachelor of Computer Science at Lublin University of Technology  
+- 🎓 Bachelor of Engineering in Computer Science at Lublin University of Technology  
 - 💻 Interested in Fullstack & Software Engineering  
 - 🌍 Languages: Belarusian | Polish | English | Russian
 - 🚀 Focused on building real production-ready projects  
