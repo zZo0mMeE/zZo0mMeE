@@ -25,6 +25,9 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/zZo0mMeE?theme=dark&font=baloo&ext=contest" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zZo0mMeE&show_icons=true&theme=dark" />
 </p>
 
