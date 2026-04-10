@@ -1,5 +1,5 @@
 <h1 align="center">Yauheni Ivus</h1>
-<h3 align="center">Computer Science Engineer | Fullstack & Software Developer</h3>
+<h3 align="center">Fullstack & Software Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yauheni-ivus/">
@@ -16,26 +16,16 @@
 
 - 🎓 Bachelor of Engineering in Computer Science at Lublin University of Technology  
 - 💻 Interested in Fullstack & Software Engineering  
-- 🌍 Languages: Belarusian | Polish | English | Russian
-- 🚀 Focused on building real production-ready projects  
-
+- 🚀 Focused on building real production-ready projects 
+- 🌍 Languages: English | Polish | Belarusian | Russian
+ 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Coding Activity
 
-### 💻 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,bootstrap,laravel,spring,angular,tailwind,vue" />
-</p>
-
-### 🧠 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,swift" />
-</p>
-
-### 🛠 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,powershell,bash,windows,linux,ubuntu,vim,npm,gradle,maven,docker,mysql,sqlite,postgres,mongodb,postman,qt,vscode,idea,androidstudio,figma" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/zZo0mMeE?theme=dark&font=baloo&ext=contest" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zZo0mMeE&show_icons=true&theme=dark" />
 </p>
 
 ---
@@ -47,3 +37,20 @@
 </p>
 
 ---
+
+## 🛠 Tech Stack
+
+### 💻 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,bootstrap,laravel,spring,angular,tailwind,vue" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,swift" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,powershell,bash,windows,linux,ubuntu,vim,npm,gradle,maven,docker,mysql,sqlite,postgres,mongodb,postman,qt,vscode,idea,androidstudio,figma" />
+</p>
